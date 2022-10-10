@@ -13,7 +13,7 @@ const About = () => {
           </p>
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
-          I specialise in developing mobile responsive front-end UI apps that communicate with APIs and other backend technologies. I'm enthusiastic about learning new technology and recognise that there are other ways to do a task. Though I am most comfortable designing front-end applications with HTML, CSS, Javascript, and React, I am a quick learner who can quickly take up new tech stacks as needed. Being a great developer, in my opinion, is about selecting the greatest tool for the job rather than employing a specific language.
+          I specialise in developing mobile responsive front-end UI apps that communicate with APIs and other backend technologies. I`&apos;`m enthusiastic about learning new technology and recognise that there are other ways to do a task. Though I am most comfortable designing front-end applications with HTML, CSS, Javascript, and React, I am a quick learner who can quickly take up new tech stacks as needed. Being a great developer, in my opinion, is about selecting the greatest tool for the job rather than employing a specific language.
           </p>
           <p className='py-2 text-gray-600'>
           In the year 2020, I began developing websites. I have two years of expertise developing various web applications and have also worked professionally in the field.  I enjoy competitive coding in my leisure time.
